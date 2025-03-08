@@ -1,4 +1,4 @@
-/* *{
+*{
     margin: 0;
     padding: 0;
     box-sizing: border-box;
@@ -6,9 +6,9 @@
 
 body{
     background-color: rgba(145, 144, 144, 0.637);
-    display: flex;
+    /* display: flex;
     align-items: center;
-    justify-content: center;
+    justify-content: center; */
 }
 
 main{
@@ -44,4 +44,16 @@ button{
     color: white;
     font-family: sans-serif;
     font-weight: bolder;
-} */
+}
+h1{
+    margin: 10px 0;
+}
+h2{
+    margin: 10px 0;
+}
+#p2{
+    margin: 10px 0;
+}
+#ter{
+    text-align: center;
+}
